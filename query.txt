@@ -1,0 +1,2 @@
+SecurityEvent
+| where Activity contains "success" and Account !contains "system"

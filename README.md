@@ -1,4 +1,4 @@
-# Azure-SIEM Project
+# SOC on Cloud Project
 This project demonstrates the setup of a Security Information and Event Management (SIEM) system using Azure Sentinel service that monitors Remote Desktop Protocol (RDP) events.
 The goal was to log successful RDP logins and analyze them using KQL (Kusto Query Language) Queries.
 

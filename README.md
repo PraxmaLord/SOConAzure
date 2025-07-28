@@ -3,7 +3,7 @@ This project demonstrates the setup of a Security Information and Event Manageme
 The goal was to log successful RDP logins and analyze them using KQL (Kusto Query Language) Queries.
 
 ## Features
-- **Azure Sentinel Configuration**: Montors security events on connected virtual machines.
+- **Azure Sentinel Configuration**: Monitors security events on connected virtual machines.
 - **Log Analytics Workspace**: Collects and organizes security logs.
 - **Azure Monitor Agent**: Streams logs from virtual machines to Azure Sentinel.
 - **Custom KQL Queries**: Filters and analyzes log data.
